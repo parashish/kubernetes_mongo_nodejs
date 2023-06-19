@@ -32,6 +32,11 @@ docker push <username>/node-rest-api
 
 it will push image with latest tag
 
+
+### image used for service API pod
+
+ashishpareek/node-rest-api
+
 #### Deploy image in kuberete 
 
 run follwing command 
